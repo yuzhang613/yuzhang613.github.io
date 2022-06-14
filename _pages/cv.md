@@ -9,51 +9,24 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+# 研究方向
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+- 智能嵌入式系统协同设计与验证；
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+- 医学图像处理；
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+- 大数据挖掘与智慧服务；
+
+- 可信人工智能；
+
+- 信息物理融合系统。
+- 
+# 主持的科研项目
+- 国家自然科学基金，基于CPS的海洋信息智能系统控制软件设计的一致性验证技术研究（62062030），2021.1-2024.12,项目负责人
+- 国家重点研发计划项目子课题：轨道交通装备智能供应链/营销-服务链协同方法与技术（2018YFB1703403），2019.6-2022.5，子课题负责人
+- 国家重点研发计划项目子课题：北部湾典型产业综合科技服务应用示范（2018YFB1404405），2019.6-2022.5，子课题负责人
+- 海南省重点研发计划项目：基于多源图像融合的前列腺癌变智能检测关键技术研究及应用（ZDYF2021SHFZ243），2021.12-2023.12，项目负责人。
+- 海南省重点研发计划课题：基于多源数据融合的医疗智慧导诊服务关键技术研究及应用（ZDYF2019020），2019.4-2021.4, 课题负责人。
+- 海口市重大科技计划课题，基于区块链的放射医学影像智能识别和分析平台研究（2020-009），2020.8-2023.9，课题负责人。
+- 海南省高等学校科学研究项目：基于健康大数据的智能家居关键技术研究（ Hnky2019-22），2019.12——2021.12，项目负责人。
+- 海南自然科学基金面上项目：面向CPS的模型测试方法研究（617062），2017.01——2018.12。，项目负责人。
