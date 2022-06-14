@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr.Yu Zhang / Academic site"
+title                    : "Dr.Yu Zhang (张雨） Academic site"
 title_separator          : "-"
 name                     : &name "Yu Zhang"
 description              : &description "personal description"
@@ -80,15 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. Yu Zhang"
+  name             : "Dr. Yu Zhang （张雨）"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Hainan,China"
+  bio              : ""
+  location         : "Haikou, Hainan province, China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : "yuzhang2015@hainanu.edu.cn"
+  researchgate     :  
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +94,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
