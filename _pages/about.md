@@ -25,9 +25,8 @@ Email:yuzhang2015@hainanu.edu.cn
 2011/9-2013/9
 -- 美国Portland State University博士联合培养两年
 # 招生信息 Admission Information
-欢迎对生物信息学、数据挖掘、人工智能相关方向感兴趣的优秀本科生和研究生加入我们的团队！ 
-
-（jiajiepeng （AT）nwpu.edu.cn）。 
+欢迎对数据挖掘、人工智能相关方向感兴趣的优秀本科生和研究生加入我们的团队！ 
+ 
 
 招生信息
 
