@@ -1,14 +1,15 @@
 ---
-title: "Teaching experience 1"
+title: "本科生Undergraduate"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
+venue: " "
 date: 2014-01-01
 location: "City, Country"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
+- 计算机组成原理
+- 软件体系结构与设计
+- 操作系统
 
 Heading 1
 ======
