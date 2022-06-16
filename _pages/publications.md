@@ -4,13 +4,42 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+[1]张雨，董云卫，冯文龙，黄梦醒：一种面向CPS 的控制应用程序协同验证方法。软件学报，2017,28(5). 
+[2]Li, Y. , Huang, M. , Zhang, Y. , Chen, J. , & Feng, W. . (2020). Automated gleason grading and gleason pattern region segmentation based on deep learning for pathological images of prostate cancer. IEEE Access, PP(99), 1-1.
+[3]Yu Zhang, Mengxing Huang, Hao Wang, Wenlong Feng, Jieren Cheng and Hui Zhou, A Co-Verification Interface Design for High-Assurance CPS, CMC: Computers, Materials & Continua, Vol.58, No.1 ,pp.287-306.
+[4]Huang Mengxing, Bao Qili, Zhang Yu, Feng Wenlong. A hybrid algorithm for forecasting financial time series data based on DBSCAN and SVR. Information, v10, n3, 2019.
+[5]Yu Zhang, Fei Xie, Yunwei Dong, Gang Yang, and Xingshe Zhou. High Fidelity Virtualization of Cyber-Physical Systems. International Journal of Modeling, Simulation, and Scientific Computing, 4(2), June 2013.
+[6]Yu Zhang, Dong Yunwei, Huo Hong, Zhang Fan , Code Formal Verification of Operation System, International Journal of Computer Network and Information Security (IJCNIS), vol.2, no.2, pp.10-18, 2010.
+[7]Han, Huirui, Huang, Mengxing, Zhang, Yu and Liu, Jing, Decision Support System for Medical Diagnosis Utilizing Imbalanced Clinical Data, Applied Sciences,2018,8,9:doi: 10.3390/app8091597. 
+[8]Shaoqiong Huang, Mengxing Huang, Yu Zhang, Jing Chen, Uzair Bhatti, Medical Image Segmentation Using Deep learning with Feature Enhancement, IET Image Processing.2020,14(14) :3324-3332.
+[9]Huirui Han, Mengxing Huang, Yu Zhang and Uzair Aslam Bhatti, An Extended-Tag-Induced Matrix Factorization technique for recommender systems, Information 2018, 9, 143; doi:10.3390/info9060143.
+[10]Huang Mengxing, Han Huirui ,  Li Lefei,  Wang Hao, Zhang Yu and Bhatti Uzair Aslam, A Clinical Decision Support Framework for Heterogeneous Data Sources,  IEEE Journal of Biomedical & Health Informatics, 2018, PP(99):1-1. 
+[11]Wu Di, Huang Mengxing, Zhang Yu, Bhatti Uzair Aslam, Chen Qiong. Strategy for assessment of disaster risk using Typhoon hazards modeling based on cholorophyll-a content of seawater[J], EURASIP Journal on Wireless Communications and Networking, 2018.
+[12]张景龙,黄梦醒,张雨,吴庆洲. 基于标签优化的协同过滤推荐算法[J/OL]. 计算机应用研究, 2018,35(10)
+[13]Bhatti U A, Huang M, Wang H, Zhang Y, et al. Recommendation system for immunization coverage and monitoring[J]. Human Vaccines & Immunotherapeutics, 2017(2),1-7.（SCI  IF2.157）
+[14]Aslam Bhatti Uzair, Huang Mengxing, Wu Di. Zhang Yu. Mehmood Anum and Han Huirui. (2018). Recommendation system using feature extraction and pattern recognition in clinical care systems. Enterprise Information Systems. 1-23. 10.1080/17517575.2018.1557256.
+[15]Huirui Han, Mengxing Huang, Yu Zhang，Xiaogang Yang and Wenlong Feng，Multi-label learning with label specific features using correlation information，IEEE Access，Volume: 7，2019
+[16]张忠秋，董云卫，张雨，张凡：基于Coq的微内核操作系统程序验证方法研究.计算机测量与控制. 2011.8.
+会议：
+[1]Yu Zhang, Mengxing Huang, Wenlong Feng, An Semi-formal Co-verification Approach for High-Assurance CPS, SIMUtools 2019, LNICST 295, pp. 168–179, 2019. 
+[2]Di Wu, Yu Zhang, Hao Wang, Mengxing Huang, Wenlong Feng, Rouru Chen.Study on the assessment method of typhoon regional disaster based on the change of cholorophyll-a concentration in seawater. In Proc. of MTS/IEEE OCEANS 2017, Aberdeen, Scotland, June 19-22, 2017
+[3]Yu Zhang, Yunwei Dong, Wenlong Feng and Mengxing Huang. A Co-Simulation Interface for Cyber-Physical Systems. The 13th IEEE International Conference on Embedded Software and Systems (ICESS 2016), Chengdu, China, August 13-14, 2016.
+[4]Yu Zhang, Wenlong Feng and Mengxing Huang. Automatic Generation of High-Coverage Tests for RTL Designs using Software Techniques and Tools, The 11th IEEE Conference on Industrial Electronics and Applications (ICIEA 2016), Hefei, China. June 5 - 7, 2016. 
+[5]Yu Zhang, Yunwei Dong and Fei Xie. Bounded Model Checking of Hybrid Automata Pushdown System. In Proc. Of 14th International Conference on Quality Software (QSIC 2014), Dallas, USA, October 2-3. 2014.
+[6]Yu Zhang, Fei Xie, Yunwei Dong, Xingshe Zhou, and Chunyan Ma. Cyber/Physical Co-Verification for Developing Reliable Cyber-Physical Systems. In Proc. of 37th Annual International Computer Software and Applications Conference (COMPSAC 2013), Kyoto, Japan, July 22-26, 2013.
+[7]Yu Zhang, Dong Yunwei, Zhang Fan, Zhang Yunfeng. Research on Modeling and Analysis of CPS. In Proc. of 8th International Conference on Autonomic and Trusted Computing (ATC 2011), Banff, Canada, September 01-04, 2011.
+[8]Yu Zhang, Dong Yunwei, Zhang Zhongqiu, Huo Hong, Zhang Fan: The Study on Formal Verification of OS Kernel. The International Conference on Networks Security, Wireless Communications and Trusted Computing (NSWCTC 2011), Wuhan, China, April 23-24, 2011.
+[9]Huang Mengxing, Li Menglong, Zhang Yu, Feng Wenlong. A DIK-based Question-Answering Architecutre with Multi-Sources Data for Medical Self-Service. Proceeding of the 2019 International Conference on Software Engineering and Knowledge Engineering, 2019, July, p.1-4.
+[10]Shaoqiong Huang, Mengxing Huang, Yu Zhang and Menglong Li. Under Water Object Detection Based on Convolution Neural Network. WISA 2019, LNCS proceedings.
+[11]Menglong Li, Yu Zhang, Mengxing Huang, Jing Chen, Wenlong Feng. Named Entity Recognition in Chinese Electronic Medical Records Using Attention Mechanism.  Proceeding of the 12th IEEE International Conference on Cyber, Physical and Social Computing, 2019, July.
+[12]Qiong C, Huang M, Wang H, Zhang Y, et al. A Feature Preprocessing Framework of Remote Sensing Image for Marine Targets Recognition. Oceans. IEEE, 2018. 
+[13]Huirui Han, Mengxing Huang, Yu Zhang and Uzair Aslam Bhatti. An Architecture of Secure Health Information Storage System based on Blockchain Technology. The 4th International Conference on Cloud Computing and Security (ICCCS2018), Haikou, China, June 8-10, 2018. 
+[14]Zehao Ni, Mengxing Huang, Qiong Chen, Yu Zhang, Adaptive Image Filtering Based On Convolutional Neural Network. The 4th International Conference on Cloud Computing and Security (ICCCS2018), Haikou, China, June 8-10, 2018.  
+[15]Jinglong Zhang, Mengxing Huang, Yu Zhang. A collaborative filtering recommendation algorithm for social interaction[C]. Web Information System and Application Conference. 2017.11
+[16]Zelong Li, Mengxing Huang, Yu Zhang. A collaborative filtering algorithm of calculating similarity based on item rating and attributes[C]. Web Information System and Application Conference.  2017.11
+[17]Qingzhou Wu, Mengxing Huang, Yu Zhang. A Collaborative Filtering Algorithm Based on User Similarity an Trust[C]. Web Information System and Application Conference. 2017.11
+[18]Hui-Rui Han, Meng-Xing Huang, Hao Wang, Yu Zhang, Uzair Aslam Bhatti. A Clinical Decision Support Framework for Heterogeneous Data Sources. The 5th international conference on Enterprise Systems, 2017.9
+[19]Bhatti U A, Huang M, Wang H, Zhang Y, et al. Health recommendation graphical data mining model over big data. The 5th international conference on Enterprise Systems, 2017.9 
+[20]Shujie Hu, Mengxing Huang, Wenlong Feng, Yu Zhang. A Smart Health Service Model For Elders Based On ECA-S Rules. In Proc. of 15th International Conference on Software Engineering Research, Management and Applications (SERA2017), London, UK, June 7-9, 2017.
+[21]Uzair Aslam Bhatti, Mengxing HUANG, Yu ZHANG，Wenlong FENG，Research on the Smartphone based eHealth Systems for strengthing Healthcare Organization，The 11th IEEE Conference on Industrial Electronics and Applications (ICIEA 2016), Hefei, China. June 5 - 7, 2016. The 4th International Conference for Smart Health, Haikou, China. Dec 24 - 25, 2016.
+[22]Zhang Yunfeng, Dong Yunwei, Zhang Yu, Zhou Weichao. A study of the AADL mode based on Timed Automata. In Proc. of  2nd IEEE International Conference on Software Engineering and Service Sciences (ICSESS 2011), Beijing, China, July 15-17,2011.
