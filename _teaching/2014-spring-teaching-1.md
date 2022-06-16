@@ -1,10 +1,10 @@
 ---
-title: "本科生Undergraduate"
+title: "本科生 Undergraduate"
 collection: teaching
-type: "Undergraduate course"
+type: " "
 permalink: /teaching/2014-spring-teaching-1
 venue: " "
-date: 2014-01-01
+date:  
 location: "City, Country"
 ---
 - 计算机组成原理
