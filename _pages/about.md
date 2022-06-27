@@ -20,7 +20,7 @@ Email: yuzhang2015@hainanu.edu.cn,Tel:15708916501。
 
 教育经历 Education Background
 ======
-- 博士学位 西北工业大学计算机学院，计算机科学与技术专业(2010-2015)
+- 博士学位 西北工业大学，计算机科学与技术专业(2010-2015)
 - - 美国Portland State University博士联合培养(2011-2013)
 
 # 招生信息 Admission Information
