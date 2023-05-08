@@ -4,6 +4,15 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+- Yuchun Li, Mengxing Huang, Yu Zhang, Siling Feng, Jing Chen, Zhiming Bai, A dual attention-guided 3D convolution network for automatic segmentation of prostate and tumor, Biomedical Signal Processing and Control, Volume 85,2023.
+- Lin S, Zhang Y, Luo L, Huang M, Cao H, Hu J, Sun C, Chen J. Visualization and quantification of coconut using advanced computed tomography postprocessing technology. PLoS One. 2023 Feb 24;18(2):e0282182. doi: 10.1371/journal.pone.0282182.
+- Zhang, Y., Liu, Q., Chen, J. et al. Developing non-invasive 3D quantificational imaging for intelligent coconut analysis system with X-ray. Plant Methods 19, 24 (2023). https://doi.org/10.1186/s13007-023-01002-4.
+- Changhan Meng , Mengxing Huang, Yuchun Li, Yu Zhang, Siling Feng, Yuanyuan Wu. Multi-Modal MRI Image Fusion Of The Brain Based On Joint Bilateral Filter And Nonsubsampled Shearlet Transform，Int. J. of Bio-Inspired Computation.
+- 马春燕,吕炳旭,叶许姣,张雨.一种基于LLVM Pass的复杂嵌套循环自动并行化框架.软件学报,2023,34(7):0.
+- Chen, Hongyi, Yu Zhang, Uzair Aslam Bhatti, and Mengxing Huang. 2023. "Safe Decision Controller for Autonomous DrivingBased on Deep Reinforcement Learning in Nondeterministic Environment" Sensors 23, no. 3: 1198. https://doi.org/10.3390/s23031198.
+- Li Yuchun, Lin cong, Zhang Yu, Huang Mengxing, Zhiming Bai. Automatic Segmentation of Prostate MRI Based on 3D Pyramid Pooling Unet[J]. Medical physics. 2022. (IF: 4.506)
+- Yuchun Li, Yuanyuan Wu, Mengxing Huang, Yu Zhang, Zhiming Bai, Automatic prostate and peri-prostatic fat segmentation based on pyramid mechanism fusion network for T2-weighted MRI, Computer Methods and Programs in Biomedicine, Volume 223, 2022。(IF: 7.027)
+- Chang, K.; Feng, W.; Zhang, Y.; Zhong, W.; Zheng, X. Medical Data Storage Model Based on an Alliance Chain. Electronics 2022, 11, 2495. https://doi.org/10.3390/electronics11162495
 - 张雨，董云卫，冯文龙，黄梦醒：一种面向CPS 的控制应用程序协同验证方法。软件学报，2017,28(5). 
 - Li, Y. , Huang, M. , Zhang, Y. , Chen, J. , & Feng, W. . (2020). Automated gleason grading and gleason pattern region segmentation based on deep learning for pathological images of prostate cancer. IEEE Access, PP(99), 1-1.
 - Yu Zhang, Mengxing Huang, Hao Wang, Wenlong Feng, Jieren Cheng and Hui Zhou, A Co-Verification Interface Design for High-Assurance CPS, CMC: Computers, Materials & Continua, Vol.58, No.1 ,pp.287-306.
@@ -22,7 +31,7 @@ author_profile: true
 - 张忠秋，董云卫，张雨，张凡：基于Coq的微内核操作系统程序验证方法研究.计算机测量与控制. 2011.8.
 - 会议：
 - Yu Zhang, Mengxing Huang, Wenlong Feng, An Semi-formal Co-verification Approach for High-Assurance CPS, SIMUtools 2019, LNICST 295, pp. 168–179, 2019. 
-- Di Wu, Yu Zhang, Hao Wang, Mengxing Huang, Wenlong Feng, Rouru Chen.Study on the assessment method of typhoon regional disaster based on the change of cholorophyll-a concentration in seawater. In Proc. of MTS/IEEE OCEANS 2017, Aberdeen, Scotland, June 19-22, 2017
+- Di Wu, Yu Zhang, Hao Wang, Mengxing Huang, Wenlong Feng, Rouru Chen.Study on the assessment method of typhoon regional disaster based on the change of cholorophyll-a concentration in seawater. In Proc. of MTS/IEEE OCEANS 2017, Aberdeen, Scotland, June 19-22, 2017.
 - Yu Zhang, Yunwei Dong, Wenlong Feng and Mengxing Huang. A Co-Simulation Interface for Cyber-Physical Systems. The 13th IEEE International Conference on Embedded Software and Systems (ICESS 2016), Chengdu, China, August 13-14, 2016.
 - Yu Zhang, Wenlong Feng and Mengxing Huang. Automatic Generation of High-Coverage Tests for RTL Designs using Software Techniques and Tools, The 11th IEEE Conference on Industrial Electronics and Applications (ICIEA 2016), Hefei, China. June 5 - 7, 2016. 
 - Yu Zhang, Yunwei Dong and Fei Xie. Bounded Model Checking of Hybrid Automata Pushdown System. In Proc. Of 14th International Conference on Quality Software (QSIC 2014), Dallas, USA, October 2-3. 2014.
