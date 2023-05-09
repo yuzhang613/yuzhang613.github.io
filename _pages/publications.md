@@ -20,27 +20,5 @@ author_profile: true
 - Aslam Bhatti Uzair, Huang Mengxing, Wu Di. Zhang Yu. Mehmood Anum and Han Huirui. (2018). Recommendation system using feature extraction and pattern recognition in clinical care systems. Enterprise Information Systems. 1-23. 10.1080/17517575.2018.1557256.
 - Huirui Han, Mengxing Huang, Yu Zhang，Xiaogang Yang and Wenlong Feng，Multi-label learning with label specific features using correlation information，IEEE Access，Volume: 7，2019
 - 张忠秋，董云卫，张雨，张凡：基于Coq的微内核操作系统程序验证方法研究.计算机测量与控制. 2011.8.
-- 会议：
-- Yu Zhang, Mengxing Huang, Wenlong Feng, An Semi-formal Co-verification Approach for High-Assurance CPS, SIMUtools 2019, LNICST 295, pp. 168–179, 2019. 
-- Di Wu, Yu Zhang, Hao Wang, Mengxing Huang, Wenlong Feng, Rouru Chen.Study on the assessment method of typhoon regional disaster based on the change of cholorophyll-a concentration in seawater. In Proc. of MTS/IEEE OCEANS 2017, Aberdeen, Scotland, June 19-22, 2017
-- Yu Zhang, Yunwei Dong, Wenlong Feng and Mengxing Huang. A Co-Simulation Interface for Cyber-Physical Systems. The 13th IEEE International Conference on Embedded Software and Systems (ICESS 2016), Chengdu, China, August 13-14, 2016.
-- Yu Zhang, Wenlong Feng and Mengxing Huang. Automatic Generation of High-Coverage Tests for RTL Designs using Software Techniques and Tools, The 11th IEEE Conference on Industrial Electronics and Applications (ICIEA 2016), Hefei, China. June 5 - 7, 2016. 
-- Yu Zhang, Yunwei Dong and Fei Xie. Bounded Model Checking of Hybrid Automata Pushdown System. In Proc. Of 14th International Conference on Quality Software (QSIC 2014), Dallas, USA, October 2-3. 2014.
-- Yu Zhang, Fei Xie, Yunwei Dong, Xingshe Zhou, and Chunyan Ma. Cyber/Physical Co-Verification for Developing Reliable Cyber-Physical Systems. In Proc. of 37th Annual International Computer Software and Applications Conference (COMPSAC 2013), Kyoto, Japan, July 22-26, 2013.
-- Yu Zhang, Dong Yunwei, Zhang Fan, Zhang Yunfeng. Research on Modeling and Analysis of CPS. In Proc. of 8th International Conference on Autonomic and Trusted Computing (ATC 2011), Banff, Canada, September 01-04, 2011.
-- Yu Zhang, Dong Yunwei, Zhang Zhongqiu, Huo Hong, Zhang Fan: The Study on Formal Verification of OS Kernel. The International Conference on Networks Security, Wireless Communications and Trusted Computing (NSWCTC 2011), Wuhan, China, April 23-24, 2011.
-- Huang Mengxing, Li Menglong, Zhang Yu, Feng Wenlong. A DIK-based Question-Answering Architecutre with Multi-Sources Data for Medical Self-Service. Proceeding of the 2019 International Conference on Software Engineering and Knowledge Engineering, 2019, July, p.1-4.
-- Shaoqiong Huang, Mengxing Huang, Yu Zhang and Menglong Li. Under Water Object Detection Based on Convolution Neural Network. WISA 2019, LNCS proceedings.
-- Menglong Li, Yu Zhang, Mengxing Huang, Jing Chen, Wenlong Feng. Named Entity Recognition in Chinese Electronic Medical Records Using Attention Mechanism.  Proceeding of the 12th IEEE International Conference on Cyber, Physical and Social Computing, 2019, July.
-- Qiong C, Huang M, Wang H, Zhang Y, et al. A Feature Preprocessing Framework of Remote Sensing Image for Marine Targets Recognition. Oceans. IEEE, 2018. 
-- Huirui Han, Mengxing Huang, Yu Zhang and Uzair Aslam Bhatti. An Architecture of Secure Health Information Storage System based on Blockchain Technology. The 4th International Conference on Cloud Computing and Security (ICCCS2018), Haikou, China, June 8-10, 2018. 
-- Zehao Ni, Mengxing Huang, Qiong Chen, Yu Zhang, Adaptive Image Filtering Based On Convolutional Neural Network. The 4th International Conference on Cloud Computing and Security (ICCCS2018), Haikou, China, June 8-10, 2018.  
-- Jinglong Zhang, Mengxing Huang, Yu Zhang. A collaborative filtering recommendation algorithm for social interaction[C]. Web Information System and Application Conference. 2017.11
-- Zelong Li, Mengxing Huang, Yu Zhang. A collaborative filtering algorithm of calculating similarity based on item rating and attributes[C]. Web Information System and Application Conference.  2017.11
-- Qingzhou Wu, Mengxing Huang, Yu Zhang. A Collaborative Filtering Algorithm Based on User Similarity an Trust[C]. Web Information System and Application Conference. 2017.11
-- Hui-Rui Han, Meng-Xing Huang, Hao Wang, Yu Zhang, Uzair Aslam Bhatti. A Clinical Decision Support Framework for Heterogeneous Data Sources. The 5th international conference on Enterprise Systems, 2017.9
-- Bhatti U A, Huang M, Wang H, Zhang Y, et al. Health recommendation graphical data mining model over big data. The 5th international conference on Enterprise Systems, 2017.9 
-- Shujie Hu, Mengxing Huang, Wenlong Feng, Yu Zhang. A Smart Health Service Model For Elders Based On ECA-S Rules. In Proc. of 15th International Conference on Software Engineering Research, Management and Applications (SERA2017), London, UK, June 7-9, 2017.
-- Uzair Aslam Bhatti, Mengxing HUANG, Yu ZHANG，Wenlong FENG，Research on the Smartphone based eHealth Systems for strengthing Healthcare Organization，The 11th IEEE Conference on Industrial Electronics and Applications (ICIEA 2016), Hefei, China. June 5 - 7, 2016. The 4th International Conference for Smart Health, Haikou, China. Dec 24 - 25, 2016.
-- Zhang Yunfeng, Dong Yunwei, Zhang Yu, Zhou Weichao. A study of the AADL mode based on Timed Automata. In Proc. of  2nd IEEE International Conference on Software Engineering and Service Sciences (ICSESS 2011), Beijing, China, July 15-17,2011.
+
 
