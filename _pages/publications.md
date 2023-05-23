@@ -36,4 +36,4 @@ author_profile: true
 - Yu Zhang, Yunwei Dong, Wenlong Feng and Mengxing Huang. A Co-Simulation Interface for Cyber-Physical Systems. The 13th IEEE International Conference on Embedded Software and Systems (ICESS 2016), Chengdu, China, August 13-14, 2016.
 - Yu Zhang, Yunwei Dong and Fei Xie. Bounded Model Checking of Hybrid Automata Pushdown System. In Proc. Of 14th International Conference on Quality Software (QSIC 2014), Dallas, USA, October 2-3. 2014.
 - Yu Zhang, Fei Xie, Yunwei Dong, Xingshe Zhou, and Chunyan Ma. Cyber/Physical Co-Verification for Developing Reliable Cyber-Physical Systems. In Proc. of 37th Annual International Computer Software and Applications Conference (COMPSAC 2013), Kyoto, Japan, July 22-26, 2013.
-- Yu Zhang, Dong Yunwei, Zhang Fan, Zhang Yunfeng. Research on Modeling and Analysis of CPS. In Proc. of 8th International Conference on Autonomic and Trusted Computing (ATC 2011), Banff, Canada, September 01-04, 2011.
+- Yu Zhang, Dong Yunwei, Zhang Fan, Zhang Yunfeng. Research on Modeling and Analysis of CPS. In Proc. of 8th International Conference on Autonomic and Trusted Computing (ATC 2011), Banff, Canada, September 01-04, 2012.
