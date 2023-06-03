@@ -4,7 +4,7 @@ collection: teaching
 type: " "
 permalink: /teaching/2015-spring-teaching-1
 venue: " "
-data: " "
+data: 2022-05-04
 location: "City, Country"
 ---
 - 软件体系结构
