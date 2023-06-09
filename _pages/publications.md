@@ -9,7 +9,7 @@ author_profile: true
 - Zhang, Y., Liu, Q., Chen, J. et al. Developing non-invasive 3D quantificational imaging for intelligent coconut analysis system with X-ray. Plant Methods 19, 24 (2023). 
 - Changhan Meng , Mengxing Huang, Yuchun Li, Yu Zhang, Siling Feng, Yuanyuan Wu. Multi-Modal MRI Image Fusion Of The Brain Based On Joint Bilateral Filter And Nonsubsampled Shearlet Transform，Int. J. of Bio-Inspired Computation.
 - 马春燕,吕炳旭,叶许姣,张雨.一种基于LLVM Pass的复杂嵌套循环自动并行化框架.软件学报,2023,34(7):0.
-- Chen, Hongyi, Yu Zhang, Uzair Aslam Bhatti, and Mengxing Huang. 2023. "Safe Decision Controller for Autonomous DrivingBased on Deep Reinforcement Learning in Nondeterministic Environment" Sensors 23, no. 3: 1198. 
+- Chen, Hongyi, Yu Zhang, Uzair Aslam Bhatti, and Mengxing Huang. 2023. Safe Decision Controller for Autonomous DrivingBased on Deep Reinforcement Learning in Nondeterministic Environment, Sensors 23, no. 3: 1198. 
 - Li Yuchun, Lin cong, Zhang Yu, Huang Mengxing, Zhiming Bai. Automatic Segmentation of Prostate MRI Based on 3D Pyramid Pooling Unet[J]. Medical physics. 2022. 
 - Yuchun Li, Yuanyuan Wu, Mengxing Huang, Yu Zhang, Zhiming Bai, Automatic prostate and peri-prostatic fat segmentation based on pyramid mechanism fusion network for T2-weighted MRI, Computer Methods and Programs in Biomedicine, Volume 223, 2022.
 - Chang, K.; Feng, W.; Zhang, Y.; Zhong, W.; Zheng, X. Medical Data Storage Model Based on an Alliance Chain. Electronics 2022, 11, 2495. 
