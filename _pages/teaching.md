@@ -9,7 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
+# Undergraduate 本科生
 ---
 - 计算机组成原理
-- 软件体系结构与设计
 - 操作系统
+
+# Graduate 研究生
+---
+- 软件体系结构
