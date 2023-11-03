@@ -4,6 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+- Yu Zhang, Jing Chen, Xiangxun Ma, Gang Wang, Uzair Aslam Bhatti, Mengxing Huang,Interactive medical image annotation using improved Attention U-net with compound geodesic distance,Expert Systems with Applications,2023,121282.
 - Yuchun Li, Mengxing Huang, Yu Zhang, Siling Feng, Jing Chen, Zhiming Bai, A dual attention-guided 3D convolution network for automatic segmentation of prostate and tumor, Biomedical Signal Processing and Control, Volume 85,2023.
 - Lin S, Zhang Y, Luo L, Huang M, Cao H, Hu J, Sun C, Chen J. Visualization and quantification of coconut using advanced computed tomography postprocessing technology. PLoS One. 2023 Feb 24;18(2):e0282182. doi: 10.1371/journal.pone.0282182.
 - Zhang, Y., Liu, Q., Chen, J. et al. Developing non-invasive 3D quantificational imaging for intelligent coconut analysis system with X-ray. Plant Methods 19, 24 (2023). 
