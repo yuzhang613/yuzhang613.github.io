@@ -7,14 +7,16 @@ author_profile: true
 - Zhang, Y., Xu, S., Chen, H. et al. Context-aware environment online monitoring for safety autonomous vehicle systems: an automata-theoretic approach. J Cloud Comp 13, 6 (2024). https://doi.org/10.1186/s13677-023-00567-8.（中科院3区）
 - Yu Zhang, Jing Chen, Xiangxun Ma, Gang Wang, Uzair Aslam Bhatti, Mengxing Huang,Interactive medical image annotation using improved Attention U-net with compound geodesic distance,Expert Systems with Applications,2023,121282.（中科院1区top）
 - Li, Yuchun, Wu Yuanyuan, Huang Mengxing, Zhang Yu, Bai Zhiming. (2023). Attention-guided multi-scale learning network for automatic prostate and tumor segmentation on MRI. Computers in Biology and Medicine. 107374. 10.1016/j.compbiomed.2023.107374. （中科院2区top）
-- Yuchun Li, Mengxing Huang, Yu Zhang, Siling Feng, Jing Chen, Zhiming Bai, A dual attention-guided 3D convolution network for automatic segmentation of prostate and tumor, Biomedical Signal Processing and Control, Volume 85,2023.
+- Yuchun Li, Mengxing Huang, Yu Zhang, Siling Feng, Jing Chen, Zhiming Bai, A dual attention-guided 3D convolution network for automatic segmentation of prostate and tumor, Biomedical Signal Processing and Control, Volume 85,2023.（中科院2区top）
 - Lin S, Zhang Y, Luo L, Huang M, Cao H, Hu J, Sun C, Chen J. Visualization and quantification of coconut using advanced computed tomography postprocessing technology. PLoS One. 2023 Feb 24;18(2):e0282182. doi: 10.1371/journal.pone.0282182.
-- Zhang, Y., Liu, Q., Chen, J. et al. Developing non-invasive 3D quantificational imaging for intelligent coconut analysis system with X-ray. Plant Methods 19, 24 (2023). 
-- Changhan Meng , Mengxing Huang, Yuchun Li, Yu Zhang, Siling Feng, Yuanyuan Wu. Multi-Modal MRI Image Fusion Of The Brain Based On Joint Bilateral Filter And Nonsubsampled Shearlet Transform，Int. J. of Bio-Inspired Computation.
+- Qianfan Liu， Yu Zhang，Jing Chen et al. An Improved Deeplab V3+ Network Based Coconut CT Image Segmentation Method. Front. Plant Sci. Volume 14 - 2023 | doi: 10.3389/fpls.2023.1139666. （中科院2区top）
+- Zhang, Y., Liu, Q., Chen, J. et al. Developing non-invasive 3D quantificational imaging for intelligent coconut analysis system with X-ray. Plant Methods 19, 24 (2023). （中科院2区）
+- Changhan Meng , Mengxing Huang, Yuchun Li, Yu Zhang, Siling Feng, Yuanyuan Wu. Multi-Modal MRI Image Fusion Of The Brain Based On Joint Bilateral Filter And Nonsubsampled Shearlet Transform，Int. J. of Bio-Inspired Computation.（中科院3区）
 - 马春燕，吕炳旭，叶许姣，张雨。一种基于LLVM Pass的复杂嵌套循环自动并行化框架.软件学报,2023,34(7):0.
-- Chen, Hongyi, Yu Zhang, Uzair Aslam Bhatti, and Mengxing Huang. 2023. Safe Decision Controller for Autonomous DrivingBased on Deep Reinforcement Learning in Nondeterministic Environment, Sensors 23, no. 3: 1198. 
-- Li Yuchun, Lin cong, Zhang Yu, Huang Mengxing, Zhiming Bai. Automatic Segmentation of Prostate MRI Based on 3D Pyramid Pooling Unet[J]. Medical physics. 2022. 
-- Yuchun Li, Yuanyuan Wu, Mengxing Huang, Yu Zhang, Zhiming Bai, Automatic prostate and peri-prostatic fat segmentation based on pyramid mechanism fusion network for T2-weighted MRI, Computer Methods and Programs in Biomedicine, Volume 223, 2022.
+- Chen, Hongyi, Yu Zhang, Uzair Aslam Bhatti, and Mengxing Huang. 2023. Safe Decision Controller for Autonomous DrivingBased on Deep Reinforcement Learning in Nondeterministic Environment, Sensors 23, no. 3: 1198. （中科院3区）
+- 胡金玥，白志明，王刚，张雨，黄梦醒，何占平，陈晶。影像组学在前列腺癌诊治中的应用现状及展望；中国CT和MRI杂志；2023；21（12）；175-178.
+- Li Yuchun, Lin cong, Zhang Yu, Huang Mengxing, Zhiming Bai. Automatic Segmentation of Prostate MRI Based on 3D Pyramid Pooling Unet[J]. Medical physics. 2022. （中科院2区）
+- Yuchun Li, Yuanyuan Wu, Mengxing Huang, Yu Zhang, Zhiming Bai, Automatic prostate and peri-prostatic fat segmentation based on pyramid mechanism fusion network for T2-weighted MRI, Computer Methods and Programs in Biomedicine, Volume 223, 2022.（中科院2区top）
 - Chang, K.; Feng, W.; Zhang, Y.; Zhong, W.; Zheng, X. Medical Data Storage Model Based on an Alliance Chain. Electronics 2022, 11, 2495. 
 - Huang Shaoqiong, Huang Mengxing, Zhang Yu, Chen Jing, Bhatti Uzair: Medical image segmentation using deep learning with feature enhancement[J]. IET Image Processing.2020,14(14) :3324-3332.
 - Li, Y. , Huang, M. , Zhang, Y. , Chen, J. , & Feng, W. . (2020). Automated gleason grading and gleason pattern region segmentation based on deep learning for pathological images of prostate cancer. IEEE Access, PP(99), 1-1.
