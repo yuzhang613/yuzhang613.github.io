@@ -9,7 +9,7 @@ author_profile: true
 - Li, Yuchun, Wu Yuanyuan, Huang Mengxing, Zhang Yu, Bai Zhiming. (2023). Attention-guided multi-scale learning network for automatic prostate and tumor segmentation on MRI. Computers in Biology and Medicine. 107374. 10.1016/j.compbiomed.2023.107374. （中科院2区top）
 - Yuchun Li, Mengxing Huang, Yu Zhang, Siling Feng, Jing Chen, Zhiming Bai, A dual attention-guided 3D convolution network for automatic segmentation of prostate and tumor, Biomedical Signal Processing and Control, Volume 85,2023.（中科院2区top）
 - Lin S, Zhang Y, Luo L, Huang M, Cao H, Hu J, Sun C, Chen J. Visualization and quantification of coconut using advanced computed tomography postprocessing technology. PLoS One. 2023 Feb 24;18(2):e0282182. doi: 10.1371/journal.pone.0282182.
-- Qianfan Liu， Yu Zhang，Jing Chen et al. An Improved Deeplab V3+ Network Based Coconut CT Image Segmentation Method. Front. Plant Sci. Volume 14 - 2023 | doi: 10.3389/fpls.2023.1139666. （中科院2区top）
+- Qianfan Liu， Yu Zhang，Jing Chen et al. An Improved Deeplab V3+ Network Based Coconut CT Image Segmentation Method. Front. Plant Sci. Volume 14-2023. doi: 10.3389/fpls.2023.1139666. （中科院2区top）
 - Zhang, Y., Liu, Q., Chen, J. et al. Developing non-invasive 3D quantificational imaging for intelligent coconut analysis system with X-ray. Plant Methods 19, 24 (2023). （中科院2区）
 - Changhan Meng , Mengxing Huang, Yuchun Li, Yu Zhang, Siling Feng, Yuanyuan Wu. Multi-Modal MRI Image Fusion Of The Brain Based On Joint Bilateral Filter And Nonsubsampled Shearlet Transform，Int. J. of Bio-Inspired Computation.（中科院3区）
 - 马春燕，吕炳旭，叶许姣，张雨。一种基于LLVM Pass的复杂嵌套循环自动并行化框架.软件学报,2023,34(7):0.
