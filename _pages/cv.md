@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-研究方向 Research Interest
+研究方向 Research Interests
 
 - 医学图像处理 Medical image processing
 
