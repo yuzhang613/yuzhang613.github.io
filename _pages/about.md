@@ -9,11 +9,10 @@ redirect_from:
 张雨，海南大学计算机科学与技术学院副教授，博士生导师，博士毕业于西北工业大学计算机学院计算机科学与技术专业，博士期间作为国家公派留学生到美国Portland State University博士联合培养两年。目前是海南省放射医学影像大数据分析与服务工程研究中心副主任，中国计算机学会嵌入式系统专委会委员，IEEE 计算机学会会员，近年来一直致力于CPS、智能信息处理、个性化服务等领域的研究工作，如果你想在相关领域探讨感兴趣的问题，欢迎联系我 Tel: 15708916501, Email: yuzhang2015@hainanu.edu.cn。
 # 研究兴趣 Research Interests
 ---
-- 智能嵌入式系统协同设计与验证
-- 医学图像处理
-- 数据挖掘与智慧服务
-- 可信人工智能
-- 信息物理融合系统
+- 医学图像处理 Medical image processing
+- 大数据挖掘与智慧服务 Big data mining and intelligent services
+- 可信人工智能 Trustworthy AI
+- 智能信息物理融合系统 Design automation of intelligent Cyber-Physical Systems
 
 ---
 
