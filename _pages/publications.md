@@ -4,6 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+- Mengxing Huang, Xiu Shi Zhang, Uzair Aslam Bhatti, YuanYuan Wu, Yu Zhang, Yazeed Yasin Ghadi, An interpretable approach using hybrid graph networks and explainable AI for intelligent diagnosis recommendations in chronic disease care, Biomedical Signal Processing and Control,Volume 91,2024.（中科院2区）
 - Zhang, Y., Xu, S., Chen, H. et al. Context-aware environment online monitoring for safety autonomous vehicle systems: an automata-theoretic approach. J Cloud Comp 13, 6 (2024). https://doi.org/10.1186/s13677-023-00567-8.（中科院3区）
 - Yu Zhang, Jing Chen, Xiangxun Ma, Gang Wang, Uzair Aslam Bhatti, Mengxing Huang,Interactive medical image annotation using improved Attention U-net with compound geodesic distance,Expert Systems with Applications,2023,121282.（中科院1区top）
 - Li, Yuchun, Wu Yuanyuan, Huang Mengxing, Zhang Yu, Bai Zhiming. (2023). Attention-guided multi-scale learning network for automatic prostate and tumor segmentation on MRI. Computers in Biology and Medicine. 107374. 10.1016/j.compbiomed.2023.107374. （中科院2区top）
@@ -12,7 +13,7 @@ author_profile: true
 - Qianfan Liu， Yu Zhang，Jing Chen et al. An Improved Deeplab V3+ Network Based Coconut CT Image Segmentation Method. Front. Plant Sci. Volume 14-2023. doi: 10.3389/fpls.2023.1139666. （中科院2区top）
 - Zhang, Y., Liu, Q., Chen, J. et al. Developing non-invasive 3D quantificational imaging for intelligent coconut analysis system with X-ray. Plant Methods 19, 24 (2023). （中科院2区）
 - Changhan Meng , Mengxing Huang, Yuchun Li, Yu Zhang, Siling Feng, Yuanyuan Wu. Multi-Modal MRI Image Fusion Of The Brain Based On Joint Bilateral Filter And Nonsubsampled Shearlet Transform，Int. J. of Bio-Inspired Computation.（中科院3区）
-- 马春燕，吕炳旭，叶许姣，张雨。一种基于LLVM Pass的复杂嵌套循环自动并行化框架.软件学报,2023,34(7):0.
+- 马春燕，吕炳旭，叶许姣，张雨。一种基于LLVM Pass的复杂嵌套循环自动并行化框架。软件学报，2023，34(7):0。
 - Chen, Hongyi, Yu Zhang, Uzair Aslam Bhatti, and Mengxing Huang. 2023. Safe Decision Controller for Autonomous DrivingBased on Deep Reinforcement Learning in Nondeterministic Environment, Sensors 23, no. 3: 1198. （中科院3区）
 - 胡金玥，白志明，王刚，张雨，黄梦醒，何占平，陈晶。影像组学在前列腺癌诊治中的应用现状及展望；中国CT和MRI杂志；2023；21（12）；175-178.
 - Li Yuchun, Lin cong, Zhang Yu, Huang Mengxing, Zhiming Bai. Automatic Segmentation of Prostate MRI Based on 3D Pyramid Pooling Unet[J]. Medical physics. 2022. （中科院2区）
