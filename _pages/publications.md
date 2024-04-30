@@ -4,6 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+- M. Huang, J. Zou, Y. Zhang, U. A. Bhatti and J. Chen, "Efficient click-based interactive segmentation for medical image with improved Plain-ViT," in IEEE Journal of Biomedical and Health Informatics, doi: 10.1109/JBHI.2024.3392893.（中科院1区）
 - Mengxing Huang, Xiu Shi Zhang, Uzair Aslam Bhatti, YuanYuan Wu, Yu Zhang, Yazeed Yasin Ghadi, An interpretable approach using hybrid graph networks and explainable AI for intelligent diagnosis recommendations in chronic disease care, Biomedical Signal Processing and Control,Volume 91,2024.（中科院2区）
 - Zhang, Y., Xu, S., Chen, H. et al. Context-aware environment online monitoring for safety autonomous vehicle systems: an automata-theoretic approach. J Cloud Comp 13, 6 (2024). https://doi.org/10.1186/s13677-023-00567-8.（中科院3区）
 - Yu Zhang, Jing Chen, Xiangxun Ma, Gang Wang, Uzair Aslam Bhatti, Mengxing Huang,Interactive medical image annotation using improved Attention U-net with compound geodesic distance,Expert Systems with Applications,2023,121282.（中科院1区top）
