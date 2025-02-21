@@ -4,6 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+- Jie Zou, Mengxing Huang, Yu Zhang, Zhiyuan Zhang, Wenjie Zhou, Uzair Aslam Bhatti, Jing Chen, Zhiming Bai. "ACEA-Net: Weakly Supervised Prostate 3D MRI Image Segmentation via Advanced Prompt Points," in IEEE Journal of Biomedical and Health Informatics, doi: 10.1109/JBHI.2025.3543444（中科院1区）
 - M. Huang, J. Zou, Y. Zhang, U. A. Bhatti and J. Chen, "Efficient click-based interactive segmentation for medical image with improved Plain-ViT," in IEEE Journal of Biomedical and Health Informatics, doi: 10.1109/JBHI.2024.3392893.（中科院1区）
 - Mengxing Huang, Xiu Shi Zhang, Uzair Aslam Bhatti, YuanYuan Wu, Yu Zhang, Yazeed Yasin Ghadi, An interpretable approach using hybrid graph networks and explainable AI for intelligent diagnosis recommendations in chronic disease care, Biomedical Signal Processing and Control,Volume 91,2024.（中科院2区）
 - Zhang, Y., Xu, S., Chen, H. et al. Context-aware environment online monitoring for safety autonomous vehicle systems: an automata-theoretic approach. J Cloud Comp 13, 6 (2024). https://doi.org/10.1186/s13677-023-00567-8.（中科院3区）
