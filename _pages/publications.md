@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-- Shenghuang Lin, Chengxu Sun, Li’an Luo, Mengxing Huang, Hongxing Cao, Jinyue Hu, Zhiming Bai, *Yu Zhang*, Jing Chen, The observation of internal structure changes and survival prediction modeling of mature coconut during germination based on computed tomography imaging, Industrial Crops and Products, Volume 233, 2025, 121396, ISSN 0926-6690, https://doi.org/10.1016/j.indcrop.2025.121396.（中科院1区top）
+- Shenghuang Lin, Chengxu Sun, Li’an Luo, Mengxing Huang, Hongxing Cao, Jinyue Hu, Zhiming Bai, **Yu Zhang**, Jing Chen, The observation of internal structure changes and survival prediction modeling of mature coconut during germination based on computed tomography imaging, Industrial Crops and Products, Volume 233, 2025, 121396, ISSN 0926-6690, https://doi.org/10.1016/j.indcrop.2025.121396.（中科院1区top）
 - Uzair Aslam Bhatti, Jinru Liu, Mengxing Huang, Yu Zhang, FF-UNet: Feature fusion based deep learning-powered enhanced framework for accurate brain tumor segmentation in MRI images, Image and Vision Computing, Volume 161, 2025, 105635, ISSN 0262-8856,  https://doi.org/10.1016/j.imavis.2025.105635.（中科院2区）
 - Jie Zou, Mengxing Huang, Yu Zhang, Zhiyuan Zhang, Wenjie Zhou, Uzair Aslam Bhatti, Jing Chen, Zhiming Bai. "ACEA-Net: Weakly Supervised Prostate 3D MRI Image Segmentation via Advanced Prompt Points," in IEEE Journal of Biomedical and Health Informatics, doi: 10.1109/JBHI.2025.3543444（中科院1区）
 - Zhang, Y., Xu, S., Wei, B. et al. Optimizing co-simulation with the age of information in intelligent cyber physical systems, Internet of Things, 2025.（中科院3区）
